@@ -41,7 +41,10 @@
 	
   <br/>
   </p>
+	https://activity-graph.herokuapp.com/graph?username=sabin-adhikari&theme=tokyonight
 </details>
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabin-adhikari&theme=radical)](https://git.io/praveenscience)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ----------------------------------------------------------------------
 Credit: [Sabin-Adhikari](https://github.com/sabin-adhikari)
