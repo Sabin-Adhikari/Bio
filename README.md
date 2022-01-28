@@ -29,7 +29,20 @@
       <img alt="AS" src="https://img.shields.io/badge/Android%20Studio-Apps-ff69b4?style=for-the-badge&logo=javacript">
     </a>
  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a> 
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sabin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabin-adhikari&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>	  
+<br/>
+<p align="left">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Sabin's Github Contributions" src="https://activity-graph.herokuapp.com/graph?username=sabin-adhikari&theme=react-dark"/></a>
+	  </p>
+</details>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ----------------------------------------------------------------------
 Credit: [Sabin-Adhikari](https://github.com/sabin-adhikari)
