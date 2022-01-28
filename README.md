@@ -23,7 +23,7 @@
  <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
-  <a href="https://www.mysql.com/"><img alt="Web" src="https://img.shields.io/badge/HTML%2BCSS-%3C%2F%3E-blueviolet?style=for-the-badge&logo=html&logoColor=white">
+  <a href="#"><img alt="Web" src="https://img.shields.io/badge/HTML%2BCSS-%3C%2F%3E-blueviolet?style=for-the-badge&logo=html&logoColor=white">
     </a>
     <a href="https://developer.android.com/studio">
       <img alt="AS" src="https://img.shields.io/badge/Android%20Studio-Apps-ff69b4?style=for-the-badge&logo=javacript">
