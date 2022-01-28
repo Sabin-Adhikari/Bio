@@ -40,13 +40,10 @@
   <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sabin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabin-adhikari&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>	 
 	      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sabin's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sabin-adhikari&theme=tokyonight" height="192px"/></a>	 
-	
 <br/>
-
-
+</details>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
 ----------------------------------------------------------------------
 User: [Sabin-Adhikari](https://github.com/sabin-adhikari)
 
