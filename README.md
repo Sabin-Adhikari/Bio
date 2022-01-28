@@ -37,10 +37,10 @@
 	<p align="left">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Sabin's Github Contributions" src="https://activity-graph.herokuapp.com/graph?username=sabin-adhikari&theme=react-dark"/></a>
 	  </p>
-  <p align="left">
+
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sabin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabin-adhikari&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>	 
 	      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sabin's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sabin-adhikari&theme=tokyonight" height="192px"/></a>	
-	</p>
+	
 <br/>
 </details>
 
