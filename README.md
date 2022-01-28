@@ -43,7 +43,7 @@
   </p>
 
 </details>
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabin-adhikari&theme=radical)](https://git.io/praveenscience)
+[![Sabin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabin-adhikari&theme=react-dark)](https://git.io/praveenscience)
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ----------------------------------------------------------------------
