@@ -29,7 +29,19 @@
       <img alt="AS" src="https://img.shields.io/badge/Android%20Studio-Apps-ff69b4?style=for-the-badge&logo=javacript">
     </a>
  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a> 
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sabin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabin-adhikari&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabin-adhikari&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sabin" height="192px"/>
+  <br/>
+  </p>
+</details>
 
 ----------------------------------------------------------------------
 Credit: [Sabin-Adhikari](https://github.com/sabin-adhikari)
