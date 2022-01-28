@@ -38,7 +38,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sabin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabin-adhikari&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabin-adhikari&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sabin" height="192px"/>
+	
   <br/>
   </p>
 </details>
