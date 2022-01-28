@@ -34,16 +34,23 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
+	<p align="left">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Sabin's Github Contributions" src="https://activity-graph.herokuapp.com/graph?username=sabin-adhikari&theme=react-dark"/></a>
+	  </p>
   <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sabin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabin-adhikari&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>	  
 <br/>
-<p align="left">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Sabin's Github Contributions" src="https://activity-graph.herokuapp.com/graph?username=sabin-adhikari&theme=react-dark"/></a>
-	  </p>
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 </details>
+
+
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ----------------------------------------------------------------------
-Credit: [Sabin-Adhikari](https://github.com/sabin-adhikari)
+User: [Sabin-Adhikari](https://github.com/sabin-adhikari)
 
