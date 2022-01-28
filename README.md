@@ -35,18 +35,11 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sabin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabin-adhikari&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-	  
-<br/>&nbsp;
-	  <p align="left">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Sabin's Github Contributions" src="https://activity-graph.herokuapp.com/graph?username=sabin-adhikari&theme=react-dark"/></a>
-	 
-  </p>
-
-	     
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sabin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabin-adhikari&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>	  
 <br/>
-  </p>
-
+<p align="left">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Sabin's Github Contributions" src="https://activity-graph.herokuapp.com/graph?username=sabin-adhikari&theme=react-dark"/></a>
+	  </p>
 </details>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
