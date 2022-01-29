@@ -46,6 +46,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 ----------------------------------------------------------------------
-Last Edited On: January 28, 2022
+Last Edited: January 28, 2022
 	
 
