@@ -46,5 +46,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 ----------------------------------------------------------------------
-User: [Sabin-Adhikari](https://github.com/sabin-adhikari)
+Last Edited On: January 28, 2022
+	
 
