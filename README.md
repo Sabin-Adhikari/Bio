@@ -14,7 +14,7 @@
   </a>  
   
 - 👋 Hi, I’m Sabin
-- 💼 I'm a Micro Services Engineer at EbaoTech
+- 💼 I'm a Micro Services Engineer at InsureMO
 - 💬 Ping me, if you want have some brilliant projects in mind.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
